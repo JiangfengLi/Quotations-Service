@@ -1,0 +1,37 @@
+@charset "UTF-8";
+.box {
+	padding: 15px;
+	color: white;
+	background: grey;
+	width: 100px;
+}
+
+.quote {
+	border-radius: 5px;
+	border: 3px solid grey;
+	background: white;
+	font-family: Georgia, Times New Roman;
+	font-size: 15px;
+	padding: 8px;
+	margin: 5px;
+}
+
+.submenu2 {
+	border-radius: 5px;
+	border: 3px solid grey;
+	background: white;
+	font-family: Georgia, Times New Roman;
+	font-size: 15px;
+	float: left;
+	padding: 8px;
+	margin: 5px;
+}
+
+.middle {
+	margin: 0 auto;
+	display: block;
+}
+
+.Menus {
+	height: 50px;
+}
